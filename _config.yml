@@ -1,0 +1,103 @@
+---
+booktitle: Proceedings of the 4th Machine Learning for Health Symposium
+shortname: ML4H
+year: '2024'
+volume: '259'
+start: &1 2024-12-15
+end: 2024-12-16
+published: 2025-02-17
+conference_number: '4'
+title: Proceedings of Machine Learning Research
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ML4H2024
+month: 0
+tex_title: Proceedings of the 4th Machine Learning for Health Symposium
+cycles: false
+bibtex_editor: Hegselmann, Stefan and Zhou, Helen and Healey, Elizabeth and Chang,
+  Trenton and Ellington, Caleb and Mhasawade, Vishwali and Tonekaboni, Sana and Argaw,
+  Peniel and Zhang, Haoran
+editor:
+- given: Stefan
+  family: Hegselmann
+- given: Helen
+  family: Zhou
+- given: Elizabeth
+  family: Healey
+- given: Trenton
+  family: Chang
+- given: Caleb
+  family: Ellington
+- given: Vishwali
+  family: Mhasawade
+- given: Sana
+  family: Tonekaboni
+- given: Peniel
+  family: Argaw
+- given: Haoran
+  family: Zhang
+description: |
+  Proceedings of the 4th Machine Learning for Health Symposium
+    Held in Vancouver, Canada on 15-16 December 2024
+
+  Published as Volume 259 by the Proceedings of Machine Learning Research on 17 February 2025.
+
+  Volume Edited by:
+    Stefan Hegselmann
+    Helen Zhou
+    Elizabeth Healey
+    Trenton Chang
+    Caleb Ellington
+    Vishwali Mhasawade
+    Sana Tonekaboni
+    Peniel Argaw
+    Haoran Zhang
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15--16 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v259"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v259
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v259
+email: ''
+conference:
+  name: Machine Learning for Health (ML4H)
+  url: https://ahli.cc/ml4h/
+  location: Vancouver, Canada
+  dates:
+  - *1
+  - 2024-12-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v259/ml4h24_processed.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v259/ml4h24_processed.bib
