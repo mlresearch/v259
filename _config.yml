@@ -3,7 +3,7 @@ booktitle: Proceedings of the 4th Machine Learning for Health Symposium
 shortname: ML4H
 year: '2024'
 volume: '259'
-start: &1 2024-12-15
+start: 2024-12-15
 end: 2024-12-16
 published: 2025-02-17
 conference_number: '4'
@@ -93,7 +93,7 @@ conference:
   url: https://ahli.cc/ml4h/
   location: Vancouver, Canada
   dates:
-  - *1
+  - 2024-12-15
   - 2024-12-16
 analytics:
   google:
